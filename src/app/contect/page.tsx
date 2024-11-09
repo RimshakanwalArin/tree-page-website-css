@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Contect.module.css"; // Custom CSS module
+import styles from "./contect.module.css"; // Custom CSS module
 
 function Contect() {
   return (
